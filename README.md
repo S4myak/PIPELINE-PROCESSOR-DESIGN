@@ -57,8 +57,6 @@ https://youtu.be/SlAL_iGgG08?si=nLyTbXL3cXAt3Ndh
 https://youtu.be/Rql_NCoYqsM?si=G-maER3i4Dh8SKgn
 https://youtu.be/X5pIA7_B-fc?si=JxJWwITiUo0Ho6nb
 
-AT USED :
-CHATGPT
 
 # OUTPUT :
 ![Image](https://github.com/user-attachments/assets/c5b7556a-a6ca-463d-910c-925eb63782ea)
