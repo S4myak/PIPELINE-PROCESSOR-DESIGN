@@ -61,7 +61,7 @@ AT USED :
 CHATGPT
 
 # OUTPUT :
-
+![Image](https://github.com/user-attachments/assets/c5b7556a-a6ca-463d-910c-925eb63782ea)
 
 # APPLICATIONS:
   1) Embedded Systems
