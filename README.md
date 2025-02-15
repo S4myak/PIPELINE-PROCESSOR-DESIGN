@@ -52,6 +52,16 @@ The main idea behind pipelining is to increase the processor’s throughput by a
 WEBSITE LINK :
 https://www.geeksforgeeks.org/computer-organization-and-architecture-pipelining-set-1-execution-stages-and-throughput/ 
 
+YOUTUBE LINK :
+https://youtu.be/SlAL_iGgG08?si=nLyTbXL3cXAt3Ndh
+https://youtu.be/Rql_NCoYqsM?si=G-maER3i4Dh8SKgn
+https://youtu.be/X5pIA7_B-fc?si=JxJWwITiUo0Ho6nb
+
+AT USED :
+CHATGPT
+
+# OUTPUT :
+
 
 # APPLICATIONS:
   1) Embedded Systems
